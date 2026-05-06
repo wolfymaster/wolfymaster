@@ -11,9 +11,9 @@
   <td><a href="https://www.youtube.com/wolfymaster" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a></td>
 </tr></table>
 
-⚐ Based in Austin, Texas
+⚐ Based in Pennsylvania
 
-ϟ Currently Innovating [Threat Exposure Management](https://www.sightgain.com)
+ϟ Currently building streamer tooling @ [woofx3](https://www.woofx3.tv)
 
 
 
